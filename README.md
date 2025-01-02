@@ -2,7 +2,7 @@
 ## <h1 align="center">Hi 👋, I'm Daniel</h1>
 <h3 align="center">I'm an Information Systems student with a keen interest in data analysis and data science.</h3>
 
-- 🌱 I’m currently learning **Python, Pandas, Power BI and Cloud,**
+- 🌱 I’m currently learning **Python, Pandas, Power BI and Cloud**
 
 - 💬 Ask me about **SQL and Excel**
 
